@@ -39,6 +39,7 @@ The primary source of Data used here is Data Sale.csv and this is an open source
 
     ### Data Visualisation
     
+[AREA CHART.docx](https://github.com/user-attachments/files/17174783/AREA.CHART.docx)
 
 
     
