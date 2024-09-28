@@ -38,6 +38,7 @@ The primary source of Data used here is Data Sale.csv and this is an open source
     ```
 
     ### Data Visualisation
-     CHART DIAGRAM.docx
+     ![IMG_2414](https://github.com/user-attachments/assets/2883536f-68bb-46d8-8ff8-fdeadb9bbfa1)
+
 
     
