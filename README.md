@@ -42,4 +42,8 @@ The primary source of Data used here is Data Sale.csv and this is an open source
 [AREA CHART.docx](https://github.com/user-attachments/files/17174783/AREA.CHART.docx)
 
 
+
+https://github.com/user-attachments/assets/62c15065-8107-4cad-91ef-3a72a6642f39
+
+
     
