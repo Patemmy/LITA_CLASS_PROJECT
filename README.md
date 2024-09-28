@@ -20,7 +20,8 @@ The primary source of Data used here is Data Sale.csv and this is an open source
   ### Data Cleaning and Preparations
   In the initial phase of the Data cleaning and preparations, we performed the following action;
   1. Data loading and Inspection
-  2. Handling missing variables
+  2. Handling missing variables[GRAPH EXCEL.xlsx](https://github.com/user-attachments/files/17174831/GRAPH.EXCEL.xlsx)
+
   3. Data cleaning and formatting
 
   ### Exploratory Data Analysis
@@ -39,11 +40,9 @@ The primary source of Data used here is Data Sale.csv and this is an open source
 
     ### Data Visualisation
     
-[AREA CHART.docx](https://github.com/user-attachments/files/17174783/AREA.CHART.docx)
 
 
-
-https://github.com/user-attachments/assets/62c15065-8107-4cad-91ef-3a72a6642f39
-
+    [GRAPH EXCEL.xlsx](https://github.com/user-attachments/files/17174833/GRAPH.EXCEL.xlsx)
 
     
+
