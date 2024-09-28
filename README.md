@@ -1,3 +1,5 @@
+![lu](https://github.com/user-attachments/assets/cf9dd7c6-3c7d-4237-a760-d0c688f5c67b)
+![SCAN 2](https://github.com/user-attachments/assets/9f691c86-3291-40e8-bef0-43452ab9de66)
 # LITA_CLASS_PROJECT
 
 ### Project Title: E commerce Sales Analysis
