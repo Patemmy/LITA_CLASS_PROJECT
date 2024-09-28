@@ -36,3 +36,5 @@ The primary source of Data used here is Data Sale.csv and this is an open source
     SELECT * FROM TABLE1
     WHERE CONDITION = TRUE
     ```
+
+    ### Data Visualisation
