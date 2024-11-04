@@ -1,4 +1,4 @@
-# LITA_CLASS_PROJECT
+# LITA_CLASS_WORK
 
 ### Project Title: E commerce Sales Analysis
 
